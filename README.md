@@ -33,4 +33,4 @@ This folder contains the slide deck I used when presenting on this project.
 
 
 ### vizualization
-This folder contains a Tableau vizualization showing the sentiment analysis of the different topics.
+This folder contains a Tableau vizualization displaying the sentiment analysis of the different topics.
